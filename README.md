@@ -49,6 +49,6 @@ This project allowed me to explore and refine several STEM-related skills, parti
 
 ## Visual Snippet
 
-![Coach Carter Interview](snipp.png)
+!(Snipp.png)
 
 This image captures a remarkably natural-looking AI-generated interview between Coach Carter and reporter Jay. The facial expressions, lighting, and clothing textures closely resemble a real sports media moment. Technically, this realism is achieved through motion transfer models that animate facial movements using keypoint tracking, while GANs (Generative Adversarial Networks) enhance visual fidelity. Voice synthesis aligns lip motion with the dialogue, creating seamless audiovisual coherence. The result is a convincing deep fake that demonstrates how AI can simulate human interaction with cinematic precision.
