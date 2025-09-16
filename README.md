@@ -41,4 +41,3 @@ The interview features "Coach Carter," a fictional Syracuse University basketbal
 
 ---
 
-## 📂 Repository Structure
